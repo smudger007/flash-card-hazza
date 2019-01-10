@@ -6,8 +6,8 @@ export const LoginPage = ({ startLogin }) => (
     <div className="box-layout">
 
         <div className="box-layout__box">
-            <h1 className="box-layout__title">Boilerplate</h1>
-            <p>Tag Line for App - you need to update this!!!!!</p>
+            <h1 className="box-layout__title">Flash Cards</h1>
+            <p>Revise with Flash Cards</p>
             <button className="button" onClick={startLogin}>Login With Google</button> 
         </div>
         

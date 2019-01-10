@@ -18,7 +18,7 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "7.1.1",
+    "babel-loader": "^7.1.1",
     "babel-plugin-transform-class-properties": "6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-polyfill": "^6.26.0",
@@ -26,7 +26,7 @@
     "babel-preset-react": "^6.24.1",
     "css-loader": "0.28.4",
     "express": "^4.16.4",
-    "extract-text-webpack-plugin": "^3.0.2",
+    "extract-text-webpack-plugin": "3.0.2",
     "firebase": "^5.5.7",
     "history": "^4.7.2",
     "moment": "^2.22.2",
@@ -48,7 +48,7 @@
     "style-loader": "0.18.2",
     "uuid": "^3.3.2",
     "validator": "^10.8.0",
-    "webpack": "3.1.0"
+    "webpack": "^3.1.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
