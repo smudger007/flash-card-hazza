@@ -1,0 +1,20 @@
+.card-layout {
+    align-items: center;
+    background: fade-out(white, .15);
+     
+}
+
+.card-layout__flashcard {    
+    background-color: $pale-yellow;
+    border-radius: 3px;
+    border-style: solid;    
+    padding: $l-size $m-size; 
+    text-align: center;
+    word-break: break-word;
+
+}
+
+.card-layout__front {
+    font-size: $font-size-xlarge;
+    font-weight: bold;
+}

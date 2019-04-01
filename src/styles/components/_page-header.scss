@@ -1,7 +1,7 @@
 .page-header {
-    background: $light-grey;
-    margin-bottom: $l-size;
-    padding: $l-size 0;
+    
+    background: $light-grey;   
+    padding: $s-size 0;
 
 }
 
@@ -10,10 +10,12 @@
 }
 
 .page-header__title {
+    
     font-weight: 300;
     margin: 0;
     span {
         font-weight: bold;
     }
+    text-align: center;
 
 }

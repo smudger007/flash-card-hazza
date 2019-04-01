@@ -3,12 +3,16 @@
     display: flex;
     flex-direction: column;
     > * {
-        margin-bottom: $m-size;
-    }
+        margin-bottom: none;                
+    }   
 
 }
 
 .form__error {
     margin: 0 0 $m-size 0;
     font-style: italic;
+}
+
+.form__center {
+    text-align: center;   
 }

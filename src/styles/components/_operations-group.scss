@@ -1,0 +1,12 @@
+.operations-group {
+    
+    align-items: flex-start; 
+    background: $light-grey;       
+    color: $grey;
+    display: flex;
+    margin: 0;
+    padding: $s-size $s-size;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

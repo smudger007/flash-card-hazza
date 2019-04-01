@@ -1,9 +1,16 @@
 import React from 'react';
+import CardOperations from './CardOperations';
+import CardsListFilters from './CardsListFilters';
+import CardsList from './CardsList';
 
+
+// Need to add <CardsList /> below, after <CardsListFilters />
 
 const DashboardPage = () => (
-    <div>
-        Dashboard Page Content to be added here!!!!
+    <div>       
+        <CardOperations />     
+        <CardsListFilters />
+        <CardsList />
     </div>
 );
 
